@@ -1,0 +1,8 @@
+{
+    "poloniex_public_api": {
+        "api_url": "https://poloniex.com/public",
+        "httpclient_timeout_sec": 10,
+        "max_requests_sec": 5,
+        "log_level": "debug"
+    }
+}
